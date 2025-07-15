@@ -1,9 +1,14 @@
 # ShipStabilityLib
 
-## 📌 What is ShipStabilityLib?
+## What is ShipStabilityLib?
 
 **ShipStabilityLib** is a modern C++ library for hydrostatics and basic ship stability calculations, inspired by *Ship Stability for Masters and Mates*.  
 It provides:
+
+**Work in Progress**  
+![Progress](https://img.shields.io/badge/Progress-5%20-yellowgreen)
+This library is in early development. Features and API may change.
+See [ROADMAP.md](ROADMAP.md) for full development plans.
 
 - Core hydrostatic and stability calculations (GM, KG, KM, GZ curves, free surface effect, etc.)
 - Clear domain models for vessels, tanks, weights, and hydrostatic tables
@@ -16,7 +21,7 @@ In the future, it may also expand to cover **hydrodynamics** (added resistance, 
 
 ---
 
-## ✅ Prerequisites
+## Prerequisites
 
 To build and use **ShipStabilityLib**, you’ll need:
 

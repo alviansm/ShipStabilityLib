@@ -8,3 +8,11 @@ EXTRACT_PRIVATE        = NO
 GENERATE_TREEVIEW      = YES
 USE_MDFILE_AS_MAINPAGE = index.md
 GENERATE_XML           = YES    # Later for MkDocs integration if needed
+
+# Use Doxygen Awesome Theme
+HTML_EXTRA_STYLESHEET = themes/doxygen-awesome.css themes/doxygen-awesome-sidebar-only.css
+HTML_EXTRA_FILES      = themes/doxygen-awesome-darkmode-toggle.js
+
+# Also enable search + treeview
+SEARCHENGINE = YES
+GENERATE_TREEVIEW = YES

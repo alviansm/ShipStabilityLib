@@ -49,6 +49,7 @@ CTestTestfile.cmake
 
 # Generated docs
 docs/html/
+docs/build-docs/
 docs/latex/
 
 # Temporary files

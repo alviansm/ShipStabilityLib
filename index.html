@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>ShipStabilityLib: Main Page</title>
+<title>ShipStabilityLib: ShipStabilityLib</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -17,6 +17,8 @@
 <script type="text/javascript" src="search/searchdata.js"></script>
 <script type="text/javascript" src="search/search.js"></script>
 <link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="doxygen-awesome.css" rel="stylesheet" type="text/css"/>
+<link href="doxygen-awesome-sidebar-only.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 <div id="top"><!-- do not remove this div, it is closed by doxygen! -->
@@ -88,10 +90,46 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 </div>
 </div>
 
-<div class="header">
-  <div class="headertitle"><div class="title">ShipStabilityLib Documentation</div></div>
+<div><div class="header">
+  <div class="headertitle"><div class="title">ShipStabilityLib </div></div>
 </div><!--header-->
 <div class="contents">
+<div class="textblock"><p><a class="anchor" id="md_index"></a> A <b>C++ library for ship stability calculations</b> based on core naval architecture principles. <br  />
+</p>
+<p>It provides ready-to-use functions for <b>weight, buoyancy, equilibrium, metacentric height (GM), and more</b>, making it easier to integrate stability checks into your simulation or maritime software.</p>
+<p><img src="https://img.shields.io/badge/Progress-5%20-yellowgreen" alt="Progress" class="inline"/></p>
+<blockquote class="doxtable">
+<p>&zwj;🚧 <b>Work in Progress</b> <br  />
+ ShipStabilityLib is under active development. APIs and documentation may change frequently. </p>
+</blockquote>
+<h1><a class="anchor" id="autotoc_md1"></a>
+Features</h1>
+<ul>
+<li>Compute buoyant force using Archimedes' principle <br  />
+</li>
+<li>Evaluate equilibrium difference (floating/sinking states) <br  />
+</li>
+<li>Extendable modular design for future stability chapters <br  />
+</li>
+<li>Tested with basic unit tests <br  />
+</li>
+</ul>
+<hr  />
+<h1><a class="anchor" id="autotoc_md3"></a>
+Installation</h1>
+<div class="fragment"><div class="line">git clone https://github.com/alviansm/ShipStabilityLib.git</div>
+<div class="line">cd ShipStabilityLib</div>
+<div class="line">mkdir build &amp;&amp; cd build</div>
+<div class="line">cmake ..</div>
+<div class="line">make</div>
+<div class="line">sudo make install</div>
+</div><!-- fragment --><hr  />
+<h1><a class="anchor" id="autotoc_md5"></a>
+Roadmap</h1>
+<p>See ROADMAP.md for further details.</p>
+<p><b>ShipStabilityLib</b> is a C++ library for ship stability calculations. This is a personal project to implement what I personally learn, into a functional product and am planning to build a GUI out of it. It might be slow since I'm working on it personally, in my spare times.</p>
+<p>The idea is to learn the theory from the books, and implement it into this library, so naturally I would need to write the tests case first, then implement the calculations out of them. </p>
+</div></div><!-- PageDoc -->
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

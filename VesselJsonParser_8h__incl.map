@@ -1,0 +1,13 @@
+<map id="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/IO/VesselJsonParser.h" name="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/IO/VesselJsonParser.h">
+<area shape="rect" id="Node000001" title="JSON parser for loading/saving vessel data." alt="" coords="5,5,275,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="101,284,160,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,61,114,84,105,109,101,153,105,197,114,238,124,270,119,272,108,239,99,198,95,153,100,107,109,82,121,59"/>
+<area shape="rect" id="Node000003" href="$Vessel_8h.html" title="Defines the Vessel struct containing main particulars and hydrostatic data." alt="" coords="115,108,293,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,59,186,95,181,98,156,62"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="189,150,173,172,158,197,145,235,137,271,132,270,140,234,154,195,169,169,185,147"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="169,203,231,229"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="206,148,204,190,199,189,200,148"/>
+<area shape="rect" id="Node000005" href="$Weight_8h.html" title="Defines the Weight struct for individual weights onboard." alt="" coords="256,196,435,236"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="236,146,304,187,301,191,234,150"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="295,239,174,282,172,277,293,234"/>
+</map>

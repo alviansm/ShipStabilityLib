@@ -1,0 +1,16 @@
+<map id="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/Domain/Vessel.h" name="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/Domain/Vessel.h">
+<area shape="rect" id="Node000001" title="Defines the Vessel struct containing main particulars and hydrostatic data." alt="" coords="307,5,547,60"/>
+<area shape="rect" id="Node000002" href="$FreeSurfaceEffect_8h.html" title="Computes free surface correction for tanks." alt="" coords="5,108,236,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,67,217,110,215,105,339,62"/>
+<area shape="rect" id="Node000003" href="$StabilityAPI_8h.html" title="High&#45;level facade for all stability calculations." alt="" coords="235,225,465,280"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="343,69,320,87,302,109,294,127,293,141,302,176,313,202,329,224,324,227,309,204,297,178,287,142,289,125,297,107,316,83,340,65"/>
+<area shape="rect" id="Node000004" href="$GMCalculator_8h.html" title="Computes metacentric height (GM)." alt="" coords="312,108,543,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="430,74,430,108,425,108,425,74"/>
+<area shape="rect" id="Node000005" href="$GZCurveCalculator_8h.html" title="Generates GZ (righting arm) curves." alt="" coords="567,108,797,177"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="503,63,604,105,601,110,501,68"/>
+<area shape="rect" id="Node000006" href="$VesselJsonParser_8h.html" title="JSON parser for loading/saving vessel data." alt="" coords="822,115,1091,170"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="562,56,811,105,844,113,843,118,809,111,561,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,181,296,223,293,228,203,186"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="397,190,371,227,367,224,393,187"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="567,184,431,228,430,223,565,179"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/Domain/Weight.h" name="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/Domain/Weight.h">
+<area shape="rect" id="Node000001" title="Defines the Weight struct for individual weights onboard." alt="" coords="306,5,549,60"/>
+<area shape="rect" id="Node000002" href="$Vessel_8h.html" title="Defines the Vessel struct containing main particulars and hydrostatic data." alt="" coords="307,108,547,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,74,430,108,425,108,425,74"/>
+<area shape="rect" id="Node000003" href="$FreeSurfaceEffect_8h.html" title="Computes free surface correction for tanks." alt="" coords="5,211,236,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,170,217,213,215,208,339,165"/>
+<area shape="rect" id="Node000004" href="$StabilityAPI_8h.html" title="High&#45;level facade for all stability calculations." alt="" coords="235,328,465,383"/>
+<area shape="poly" id="edge9_Node000002_Node000004" title=" " alt="" coords="343,172,320,190,302,212,294,229,293,244,302,279,313,304,329,326,324,329,309,307,297,281,287,245,289,228,297,209,316,186,340,167"/>
+<area shape="rect" id="Node000005" href="$GMCalculator_8h.html" title="Computes metacentric height (GM)." alt="" coords="312,211,543,280"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="430,177,430,210,425,210,425,177"/>
+<area shape="rect" id="Node000006" href="$GZCurveCalculator_8h.html" title="Generates GZ (righting arm) curves." alt="" coords="567,211,797,280"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="503,166,604,208,601,213,501,171"/>
+<area shape="rect" id="Node000007" href="$VesselJsonParser_8h.html" title="JSON parser for loading/saving vessel data." alt="" coords="822,218,1091,273"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="562,159,811,208,844,215,843,221,809,213,561,164"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,283,296,326,293,330,203,288"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="397,293,371,329,367,326,393,290"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="567,287,431,331,430,325,565,282"/>
+</map>

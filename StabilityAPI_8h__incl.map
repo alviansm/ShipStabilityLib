@@ -1,0 +1,22 @@
+<map id="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/StabilityAPI.h" name="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/StabilityAPI.h">
+<area shape="rect" id="Node000001" title="High&#45;level facade for all stability calculations." alt="" coords="132,5,363,60"/>
+<area shape="rect" id="Node000002" href="$Vessel_8h.html" title="Defines the Vessel struct containing main particulars and hydrostatic data." alt="" coords="274,196,453,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,54,77,69,32,89,17,102,9,115,10,129,19,146,34,159,56,170,117,187,189,199,261,206,260,212,188,204,115,192,54,175,31,163,15,150,4,131,4,113,13,98,29,85,75,64,132,49"/>
+<area shape="rect" id="Node000006" href="$GMCalculator_8h.html" title="Computes metacentric height (GM)." alt="" coords="30,108,236,148"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="217,62,168,101,165,97,213,58"/>
+<area shape="rect" id="Node000007" href="$FreeSurfaceEffect_8h.html" title="Computes free surface correction for tanks." alt="" coords="260,108,467,148"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="282,58,331,97,328,101,279,62"/>
+<area shape="rect" id="Node000008" href="$GZCurveCalculator_8h.html" title="Generates GZ (righting arm) curves." alt="" coords="491,108,698,148"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="346,57,512,102,511,107,344,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="313,372,372,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,238,322,259,308,285,303,304,308,323,316,342,326,360,322,362,311,345,302,325,298,304,303,283,318,256,338,234"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="542,291,604,317"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="411,234,534,284,531,289,409,239"/>
+<area shape="rect" id="Node000005" href="$Weight_8h.html" title="Defines the Weight struct for individual weights onboard." alt="" coords="317,284,496,324"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="376,235,393,270,388,273,371,237"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="393,326,363,363,359,359,389,323"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="185,146,302,189,300,194,183,151"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="366,148,366,182,361,182,361,148"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="545,151,428,194,426,189,543,146"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="595,149,579,278,573,277,589,148"/>
+</map>

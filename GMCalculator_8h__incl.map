@@ -1,0 +1,12 @@
+<map id="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/Calculations/GMCalculator.h" name="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/Calculations/GMCalculator.h">
+<area shape="rect" id="Node000001" title="Computes metacentric height (GM)." alt="" coords="5,5,236,75"/>
+<area shape="rect" id="Node000002" href="$Vessel_8h.html" title="Defines the Vessel struct containing main particulars and hydrostatic data." alt="" coords="31,123,210,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,75,123,108,118,108,118,75"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="129,299,187,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,164,91,183,80,205,74,227,79,250,97,272,121,290,117,294,93,276,74,252,69,227,75,203,87,180,101,161"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="89,218,152,243"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="123,163,123,204,118,204,118,163"/>
+<area shape="rect" id="Node000005" href="$Weight_8h.html" title="Defines the Weight struct for individual weights onboard." alt="" coords="177,211,355,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="154,160,224,201,221,206,151,165"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="241,253,187,292,184,288,238,249"/>
+</map>

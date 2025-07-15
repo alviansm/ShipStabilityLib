@@ -1,0 +1,10 @@
+<map id="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/Domain/Vessel.h" name="/home/runner/work/ShipStabilityLib/ShipStabilityLib/include/ShipStabilityLib/Domain/Vessel.h">
+<area shape="rect" id="Node000001" title="Defines the Vessel struct containing main particulars and hydrostatic data." alt="" coords="5,5,245,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="133,196,192,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,61,92,81,83,103,79,125,84,147,102,170,125,187,122,191,98,174,79,149,73,125,77,101,88,78,101,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,115,157,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,60,128,101,123,101,123,60"/>
+<area shape="rect" id="Node000004" href="$Weight_8h.html" title="Defines the Weight struct for individual weights onboard." alt="" coords="181,108,360,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,58,231,98,228,103,165,62"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="246,150,192,190,189,185,243,146"/>
+</map>

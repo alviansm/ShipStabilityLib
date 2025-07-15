@@ -1,0 +1,10 @@
+PROJECT_NAME           = ShipStabilityLib
+OUTPUT_DIRECTORY       = build-docs
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+INPUT                  = ../include ../src
+RECURSIVE              = YES
+EXTRACT_PRIVATE        = NO
+GENERATE_TREEVIEW      = YES
+USE_MDFILE_AS_MAINPAGE = index.md
+GENERATE_XML           = YES    # Later for MkDocs integration if needed

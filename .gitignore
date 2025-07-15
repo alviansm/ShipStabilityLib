@@ -1,0 +1,63 @@
+# Build directories
+build/
+build-*/
+[Cc]MakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Qt Creator specific
+*.user
+*.pro.user
+*.qbs.user
+*.creator.user
+*.creator
+*.autosave
+
+# Visual Studio / MSVC artifacts
+*.sln
+*.vcxproj*
+*.pdb
+*.obj
+*.lib
+*.dll
+*.exe
+
+# VSCode settings
+.vscode/
+.history/
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# IDE-specific
+.idea/
+*.swp
+
+# Generated test outputs
+Testing/
+CTestTestfile.cmake
+
+# Generated docs
+docs/html/
+docs/latex/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Third-party build cache
+third_party/googletest/googletest/build/
+third_party/googletest/googlemock/build/
+
+# Python virtualenvs (if later used for bindings)
+.venv/

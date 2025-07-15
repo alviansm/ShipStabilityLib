@@ -1,0 +1,32 @@
+# Auto-detect text files and normalize line endings to LF in the repo
+* text=auto
+
+# Explicitly mark source files as text
+*.cpp text eol=lf
+*.h   text eol=lf
+*.c   text eol=lf
+*.hpp text eol=lf
+*.txt text eol=lf
+*.md  text eol=lf
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+
+# Treat these as binary (no diff)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.7z binary
+*.exe binary
+*.dll binary
+*.lib binary
+*.pdb binary
+
+# Keep .gitignore and .gitattributes always LF
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Ignore diff for generated files (optional)
+docs/html/** linguist-generated
+docs/latex/** linguist-generated
